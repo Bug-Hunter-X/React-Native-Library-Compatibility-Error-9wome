@@ -1,0 +1,1 @@
+This error occurs when you are using a library that is not compatible with the version of React Native you are using. For example, if you are using a library that requires React Native 0.60, and you are using React Native 0.59, you will get this error. This can also happen if you are using multiple libraries that are not compatible with each other.
